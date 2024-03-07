@@ -1,0 +1,12 @@
+<resources>
+    <!-- Define the primary colors -->
+    <color name="colorPrimary">#8474ed</color>
+    <color name="colorPrimaryDark">#6036ba</color>
+    <color name="colorChanged">#798282</color>
+    <color name="white">#FFFFFF</color>
+    <color name="orange">#eba134</color>
+    <color name="txtcolor">#465763</color>
+    <color name="seekBarProgressColor">#eba134</color>
+    <color name="seekBarThumbColor">#2c2e30</color>
+    <!-- Add other colors as needed -->
+</resources>

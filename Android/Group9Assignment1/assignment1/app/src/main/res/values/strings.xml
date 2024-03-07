@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Group9Assignment1</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="reset">Reset</string>
+    <string name="initial_time">00:00:00</string>
+    <string name="txtheader">Choose step Count(Steps per Minute)</string>
+    <string name="num">0</string>
+    <string name="addSession">Add session</string>
+    <string name="enterweight">Enter Weight in Kg.</string>
+    <string name="enterheight">Enter Height in cm.</string>
+</resources>
